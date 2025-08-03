@@ -17,11 +17,11 @@
 
 > 음성채널에 연결하게 되면 아래 사진처럼 음성 연결됨이 뜹니다.
 
-[사진](https://raw.githubusercontent.com/linsae123/discord-voice-server-ip/main/assets/screen.png)
+![사진](https://raw.githubusercontent.com/linsae123/discord-voice-server-ip/main/assets/screen.png)
 
 > 음성 연결됨에 클릭을 하면 서버 아이디가 나옵니다.
 
-[사진](https://raw.githubusercontent.com/linsae123/discord-voice-server-ip/main/assets/screen2.png)
+![사진](https://raw.githubusercontent.com/linsae123/discord-voice-server-ip/main/assets/screen2.png)
 
 ---
 
